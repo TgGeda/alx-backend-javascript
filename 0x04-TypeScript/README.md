@@ -1,9 +1,5 @@
 # Typescript 👩‍💻
 
-# Typescript 👩‍💻
-
-# Readme File
-
 This readme file provides instructions and explanations for the tasks outlined below.
 
 ## Task 0: Creating an interface for a student
