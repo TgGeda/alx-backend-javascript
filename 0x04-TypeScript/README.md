@@ -1,7 +1,10 @@
 # Typescript 👩‍💻
 
+<<<<<<< HEAD
 # Readme File
 
+=======
+>>>>>>> dd01fb9ea65533a36c60db724ab3bd25dee971cc
 This readme file provides instructions and explanations for the tasks outlined below.
 
 ## Task 0: Creating an interface for a student
@@ -358,4 +361,8 @@ In the `task_5/js/main.ts` file, the following changes need to be made:
 6. The `sumMajorCredits` function should return a `MajorCredits` value, and the `sumMinorCredits` function should return a `MinorCredits` value.
 7. Each function should sum the credits of the two subjects.
 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> dd01fb9ea65533a36c60db724ab3bd25dee971cc
